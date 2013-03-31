@@ -1,0 +1,11 @@
+This is the Ruby Really Dumb Graph Library -- a very simple library extending
+Ruby to provide best path computation via Dijkstra, Bellman-Ford and "Disjoint
+Dijstra" -- repeated execution of Dijkstra's algorithm with path removal to
+provide multiple best paths through a graph.
+
+See examples/* for a sample use.
+
+TODO: Floyd-Warshall is currently broken; sorry.
+TODO: this documentation is really poor.
+TODO: examples are ... lacking.
+
